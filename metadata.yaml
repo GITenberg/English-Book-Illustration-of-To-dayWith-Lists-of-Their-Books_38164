@@ -1,0 +1,40 @@
+_repo: English-Book-Illustration-of-To-dayWith-Lists-of-Their-Books_38164
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, Alfred William
+    - Pollard, A. W. (Alfred William)
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sketchley, R. E. D. (Rose Esther Dorothea)
+    alias: Sketchley, Rose Esther Dorothea
+    birthdate: 1875
+    gutenberg_agent_id: '39274'
+    url: http://www.gutenberg.org/2009/agents/39274
+description: ''
+gutenberg_issued: '2011-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustrators -- Great Britain'
+- !lcsh 'Illustrated books -- Great Britain -- Bibliography'
+- !lcsh 'Illustration of books -- Great Britain'
+- !lcc 'Z'
+title: "English Book-Illustration of To-day\r\nAppreciations of the Work of Living\
+  \ English Illustrators, with Lists of Their Books"
+url: http://www.gutenberg.org/ebooks/38164
